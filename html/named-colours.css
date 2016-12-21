@@ -1,0 +1,1045 @@
+/*==============================
+=
+= The 148 Named Colours
+=
+= Source: https://en.wikipedia.org/wiki/List_of_colors:_A-F
+= Source: https://en.wikipedia.org/wiki/List_of_colors:_G-M
+= Source: https://en.wikipedia.org/wiki/List_of_colors:_N-Z
+=
+==============================*/
+
+.background-alice-blue{
+  background-color:#F0F8FF;
+}
+.text-alice-blue{
+  color:#F0F8FF;
+}
+
+.background-antique-white{
+  background-color:#FAEBD7;
+}
+.text-antique-white{
+  color:#FAEBD7;
+}
+
+.background-aqua{
+  background-color:#00FFFF;
+}
+.text-aqua{
+  color:#00FFFF;
+}
+
+.background-aquamarine{
+  background-color:#7FFFD4;
+}
+.text-aquamarine{
+  color:#7FFFD4;
+}
+
+.background-azure{
+  background-color:#F0FFFF;
+}
+.text-azure{
+  color:#F0FFFF;
+}
+
+.background-beige{
+  background-color:#F5F5DC;
+}
+.text-beige{
+  color:#F5F5DC;
+}
+
+.background-bisque{
+  background-color:#FFE4C4;
+}
+.text-bisque{
+  color:#FFE4C4;
+}
+
+.background-black{
+  background-color:#000000;
+}
+.text-black{
+  color:#000000;
+}
+
+.background-blanched-almond{
+  background-color:#FFEBCD;
+}
+.text-blanched-almond{
+  color:#FFEBCD;
+}
+
+.background-blue{
+  background-color:#0000FF;
+}
+.text-blue{
+  color:#0000FF;
+}
+
+.background-blue-violet{
+  background-color:#8A2BE2;
+}
+.text-blue-violet{
+  color:#8A2BE2;
+}
+
+.background-brown{
+  background-color:#A52A2A;
+}
+.text-brown{
+  color:#A52A2A;
+}
+
+.background-burlywood{
+  background-color:#DEB887;
+}
+.text-burlywood{
+  color:#DEB887;
+}
+
+.background-cadet-blue{
+  background-color:#5F9EA0;
+}
+.text-cadet-blue{
+  color:#5F9EA0;
+}
+
+.background-chartreuse{
+  background-color:#7FFF00;
+}
+.text-chartreuse{
+  color:#7FFF00;
+}
+
+.background-chocolate{
+  background-color:#D2691E;
+}
+.text-chocolate{
+  color:#D2691E;
+}
+
+.background-coral{
+  background-color:#FF7F50;
+}
+.text-coral{
+  color:#FF7F50;
+}
+
+.background-cornflower-blue{
+  background-color:#6495ED;
+}
+.text-cornflower-blue{
+  color:#6495ED;
+}
+
+.background-cornsilk{
+  background-color:#FFF8DC;
+}
+.text-cornsilk{
+  color:#FFF8DC;
+}
+
+.background-crimson{
+  background-color:#DC143C;
+}
+.text-crimson{
+  color:#DC143C;
+}
+
+.background-cyan{
+  background-color:#00FFFF;
+}
+.text-cyan{
+  color:#00FFFF;
+}
+
+.background-dark-blue{
+  background-color:#00008B;
+}
+.text-dark-blue{
+  color:#00008B;
+}
+
+.background-dark-cyan{
+  background-color:#008B8B;
+}
+.text-dark-cyan{
+  color:#008B8B;
+}
+
+.background-dark-golden-rod{
+  background-color:#B8860B;
+}
+.text-dark-golden-rod{
+  color:#B8860B;
+}
+
+.background-dark-gray{
+  background-color:#A9A9A9;
+}
+.text-dark-gray{
+  color:#A9A9A9;
+}
+
+.background-dark-grey{
+  background-color:#A9A9A9;
+}
+.text-dark-grey{
+  color:#A9A9A9;
+}
+
+.background-dark-green{
+  background-color:#006400;
+}
+.text-dark-green{
+  color:#006400;
+}
+
+.background-dark-khaki{
+  background-color:#BDB76B;
+}
+.text-dark-khaki{
+  color:#BDB76B;
+}
+
+.background-dark-magenta{
+  background-color:#8B008B;
+}
+.text-dark-magenta{
+  color:#8B008B;
+}
+
+.background-dark-olive-green{
+  background-color:#556B2F;
+}
+.text-dark-olive-green{
+  color:#556B2F;
+}
+
+.background-dark-orange{
+  background-color:#FF8C00;
+}
+.text-dark-orange{
+  color:#FF8C00;
+}
+
+.background-dark-orchid{
+  background-color:#9932CC;
+}
+.text-dark-orchid{
+  color:#9932CC;
+}
+
+.background-dark-red{
+  background-color:#8B0000;
+}
+.text-dark-red{
+  color:#8B0000;
+}
+
+.background-dark-salmon{
+  background-color:#E9967A;
+}
+.text-dark-salmon{
+  color:#E9967A;
+}
+
+.background-dark-sea-green{
+  background-color:#8FBC8F;
+}
+.text-dark-sea-green{
+  color:#8FBC8F;
+}
+
+.background-dark-slate-blue{
+  background-color:#483D8B;
+}
+.text-dark-slate-blue{
+  color:#483D8B;
+}
+
+.background-dark-slate-gray{
+  background-color:#2F4F4F;
+}
+.text-dark-slate-gray{
+  color:#2F4F4F;
+}
+
+.background-dark-slate-grey{
+  background-color:#2F4F4F;
+}
+.text-dark-slate-grey{
+  color:#2F4F4F;
+}
+
+.background-dark-turquoise{
+  background-color:#00CED1;
+}
+.text-dark-turquoise{
+  color:#00CED1;
+}
+
+.background-dark-violet{
+  background-color:#9400D3;
+}
+.text-dark-violet{
+  color:#9400D3;
+}
+
+.background-deep-pink{
+  background-color:#FF1493;
+}
+.text-deep-pink{
+  color:#FF1493;
+}
+
+.background-deep-sky-blue{
+  background-color:#00BFFF;
+}
+.text-deep-sky-blue{
+  color:#00BFFF;
+}
+
+.background-dim-gray{
+  background-color:#696969;
+}
+.text-dim-gray{
+  color:#696969;
+}
+
+.background-dim-grey{
+  background-color:#696969;
+}
+.text-dim-grey{
+  color:#696969;
+}
+
+.background-dodger-blue{
+  background-color:#1E90FF;
+}
+.text-dodger-blue{
+  color:#1E90FF;
+}
+
+.background-fire-brick{
+  background-color:#B22222;
+}
+.text-fire-brick{
+  color:#B22222;
+}
+
+.background-floral-white{
+  background-color:#FFFAF0;
+}
+.text-floral-white{
+  color:#FFFAF0;
+}
+
+.background-forest-green{
+  background-color:#228B22;
+}
+.text-forest-green{
+  color:#228B22;
+}
+
+.background-fuchsia{
+  background-color:#FF00FF;
+}
+.text-fuchsia{
+  color:#FF00FF;
+}
+
+.background-gainsboro{
+  background-color:#DCDCDC;
+}
+.text-gainsboro{
+  color:#DCDCDC;
+}
+
+.background-ghost-white{
+  background-color:#F8F8FF;
+}
+.text-ghost-white{
+  color:#F8F8FF;
+}
+
+.background-gold{
+  background-color:#FFD700;
+}
+.text-gold{
+  color:#FFD700;
+}
+
+.background-golden-rod{
+  background-color:#DAA520;
+}
+.text-golden-rod{
+  color:#DAA520;
+}
+
+.background-gray{
+  background-color:#808080;
+}
+.text-gray{
+  color:#808080;
+}
+
+.background-grey{
+  background-color:#808080;
+}
+.text-grey{
+  color:#808080;
+}
+
+.background-green{
+  background-color:#008000;
+}
+.text-green{
+  color:#008000;
+}
+
+.background-green-yellow{
+  background-color:#ADFF2F;
+}
+.text-green-yellow{
+  color:#ADFF2F;
+}
+
+.background-honey-dew{
+  background-color:#F0FFF0;
+}
+.text-honey-dew{
+  color:#F0FFF0;
+}
+
+.background-hot-pink{
+  background-color:#FF69B4;
+}
+.text-hot-pink{
+  color:#FF69B4;
+}
+
+.background-indian-red{
+  background-color:#CD5C5C;
+}
+.text-indian-red{
+  color:#CD5C5C;
+}
+
+.background-indigo{
+  background-color:#4B0082;
+}
+.text-indigo{
+  color:#4B0082;
+}
+
+.background-ivory{
+  background-color:#FFFFF0;
+}
+.text-ivory{
+  color:#FFFFF0;
+}
+
+.background-khaki{
+  background-color:#F0E68C;
+}
+.text-khaki{
+  color:#F0E68C;
+}
+
+.background-lavender{
+  background-color:#E6E6FA;
+}
+.text-lavender{
+  color:#E6E6FA;
+}
+
+.background-lavender-blush{
+  background-color:#FFF0F5;
+}
+.text-lavender-blush{
+  color:#FFF0F5;
+}
+
+.background-lawn-green{
+  background-color:#7CFC00;
+}
+.text-lawn-green{
+  color:#7CFC00;
+}
+
+.background-lemon-chiffon{
+  background-color:#FFFACD;
+}
+.text-lemon-chiffon{
+  color:#FFFACD;
+}
+
+.background-light-blue{
+  background-color:#ADD8E6;
+}
+.text-light-blue{
+  color:#ADD8E6;
+}
+
+.background-light-coral{
+  background-color:#F08080;
+}
+.text-light-coral{
+  color:#F08080;
+}
+
+.background-light-cyan{
+  background-color:#E0FFFF;
+}
+.text-light-cyan{
+  color:#E0FFFF;
+}
+
+.background-light-golden-rod-yellow{
+  background-color:#FAFAD2;
+}
+.text-light-golden-rod-yellow{
+  color:#FAFAD2;
+}
+
+.background-light-gray{
+  background-color:#D3D3D3;
+}
+.text-light-gray{
+  color:#D3D3D3;
+}
+
+.background-light-grey{
+  background-color:#D3D3D3;
+}
+.text-light-grey{
+  color:#D3D3D3;
+}
+
+.background-light-green{
+  background-color:#90EE90;
+}
+.text-light-green{
+  color:#90EE90;
+}
+
+.background-light-pink{
+  background-color:#FFB6C1;
+}
+.text-light-pink{
+  color:#FFB6C1;
+}
+
+.background-light-salmon{
+  background-color:#FFA07A;
+}
+.text-light-salmon{
+  color:#FFA07A;
+}
+
+.background-light-sea-green{
+  background-color:#20B2AA;
+}
+.text-light-sea-green{
+  color:#20B2AA;
+}
+
+.background-light-sky-blue{
+  background-color:#87CEFA;
+}
+.text-light-sky-blue{
+  color:#87CEFA;
+}
+
+.background-light-slate-gray{
+  background-color:#778899;
+}
+.text-light-slate-gray{
+  color:#778899;
+}
+
+.background-light-slate-grey{
+  background-color:#778899;
+}
+.text-light-slate-grey{
+  color:#778899;
+}
+
+.background-light-steel-blue{
+  background-color:#B0C4DE;
+}
+.text-light-steel-blue{
+  color:#B0C4DE;
+}
+
+.background-light-yellow{
+  background-color:#FFFFE0;
+}
+.text-light-yellow{
+  color:#FFFFE0;
+}
+
+.background-lime{
+  background-color:#00FF00;
+}
+.text-lime{
+  color:#00FF00;
+}
+
+.background-lime-green{
+  background-color:#32CD32;
+}
+.text-lime-green{
+  color:#32CD32;
+}
+
+.background-linen{
+  background-color:#FAF0E6;
+}
+.text-linen{
+  color:#FAF0E6;
+}
+
+.background-magenta{
+  background-color:#FF00FF;
+}
+.text-magenta{
+  color:#FF00FF;
+}
+
+.background-maroon{
+  background-color:#800000;
+}
+.text-maroon{
+  color:#800000;
+}
+
+.background-medium-aquamarine{
+  background-color:#66CDAA;
+}
+.text-medium-aquamarine{
+  color:#66CDAA;
+}
+
+.background-medium-blue{
+  background-color:#0000CD;
+}
+.text-medium-blue{
+  color:#0000CD;
+}
+
+.background-medium-orchid{
+  background-color:#BA55D3;
+}
+.text-medium-orchid{
+  color:#BA55D3;
+}
+
+.background-medium-purple{
+  background-color:#9370DB;
+}
+.text-medium-purple{
+  color:#9370DB;
+}
+
+.background-medium-sea-green{
+  background-color:#3CB371;
+}
+.text-medium-sea-green{
+  color:#3CB371;
+}
+
+.background-medium-slate-blue{
+  background-color:#7B68EE;
+}
+.text-medium-slate-blue{
+  color:#7B68EE;
+}
+
+.background-medium-spring-green{
+  background-color:#00FA9A;
+}
+.text-medium-spring-green{
+  color:#00FA9A;
+}
+
+.background-medium-turquoise{
+  background-color:#48D1CC;
+}
+.text-medium-turquoise{
+  color:#48D1CC;
+}
+
+.background-medium-violet-red{
+  background-color:#C71585;
+}
+.text-medium-violet-red{
+  color:#C71585;
+}
+
+.background-midnight-blue{
+  background-color:#191970;
+}
+.text-midnight-blue{
+  color:#191970;
+}
+
+.background-mint-cream{
+  background-color:#F5FFFA;
+}
+.text-mint-cream{
+  color:#F5FFFA;
+}
+
+.background-misty-rose{
+  background-color:#FFE4E1;
+}
+.text-misty-rose{
+  color:#FFE4E1;
+}
+
+.background-moccasin{
+  background-color:#FFE4B5;
+}
+.text-moccasin{
+  color:#FFE4B5;
+}
+
+.background-navajo-white{
+  background-color:#FFDEAD;
+}
+.text-navajo-white{
+  color:#FFDEAD;
+}
+
+.background-navy{
+  background-color:#000080;
+}
+.text-navy{
+  color:#000080;
+}
+
+.background-old-lace{
+  background-color:#FDF5E6;
+}
+.text-old-lace{
+  color:#FDF5E6;
+}
+
+.background-olive{
+  background-color:#808000;
+}
+.text-olive{
+  color:#808000;
+}
+
+.background-olive-drab{
+  background-color:#6B8E23;
+}
+.text-olive-drab{
+  color:#6B8E23;
+}
+
+.background-orange{
+  background-color:#FFA500;
+}
+.text-orange{
+  color:#FFA500;
+}
+
+.background-orange-red{
+  background-color:#FF4500;
+}
+.text-orange-red{
+  color:#FF4500;
+}
+
+.background-orchid{
+  background-color:#DA70D6;
+}
+.text-orchid{
+  color:#DA70D6;
+}
+
+.background-pale-golden-rod{
+  background-color:#EEE8AA;
+}
+.text-pale-golden-rod{
+  color:#EEE8AA;
+}
+
+.background-pale-green{
+  background-color:#98FB98;
+}
+.text-pale-green{
+  color:#98FB98;
+}
+
+.background-pale-turquoise{
+  background-color:#AFEEEE;
+}
+.text-pale-turquoise{
+  color:#AFEEEE;
+}
+
+.background-pale-violet-red{
+  background-color:#DB7093;
+}
+.text-pale-violet-red{
+  color:#DB7093;
+}
+
+.background-papaya-whip{
+  background-color:#FFEFD5;
+}
+.text-papaya-whip{
+  color:#FFEFD5;
+}
+
+.background-peach-puff{
+  background-color:#FFDAB9;
+}
+.text-peach-puff{
+  color:#FFDAB9;
+}
+
+.background-peru{
+  background-color:#CD853F;
+}
+.text-peru{
+  color:#CD853F;
+}
+
+.background-pink{
+  background-color:#FFC0CB;
+}
+.text-pink{
+  color:#FFC0CB;
+}
+
+.background-plum{
+  background-color:#DDA0DD;
+}
+.text-plum{
+  color:#DDA0DD;
+}
+
+.background-powder-blue{
+  background-color:#B0E0E6;
+}
+.text-powder-blue{
+  color:#B0E0E6;
+}
+
+.background-purple{
+  background-color:#800080;
+}
+.text-purple{
+  color:#800080;
+}
+
+.background-rebecca-purple{
+  background-color:#663399;
+}
+.text-rebecca-purple{
+  color:#663399;
+}
+
+.background-red{
+  background-color:#FF0000;
+}
+.text-red{
+  color:#FF0000;
+}
+
+.background-rosy-brown{
+  background-color:#BC8F8F;
+}
+.text-rosy-brown{
+  color:#BC8F8F;
+}
+
+.background-royal-blue{
+  background-color:#4169E1;
+}
+.text-royal-blue{
+  color:#4169E1;
+}
+
+.background-saddle-brown{
+  background-color:#8B4513;
+}
+.text-saddle-brown{
+  color:#8B4513;
+}
+
+.background-salmon{
+  background-color:#FA8072;
+}
+.text-salmon{
+  color:#FA8072;
+}
+
+.background-sandy-brown{
+  background-color:#F4A460;
+}
+.text-sandy-brown{
+  color:#F4A460;
+}
+
+.background-sea-green{
+  background-color:#2E8B57;
+}
+.text-sea-green{
+  color:#2E8B57;
+}
+
+.background-sea-shell{
+  background-color:#FFF5EE;
+}
+.text-sea-shell{
+  color:#FFF5EE;
+}
+
+.background-sienna{
+  background-color:#A0522D;
+}
+.text-sienna{
+  color:#A0522D;
+}
+
+.background-silver{
+  background-color:#C0C0C0;
+}
+.text-silver{
+  color:#C0C0C0;
+}
+
+.background-sky-blue{
+  background-color:#87CEEB;
+}
+.text-sky-blue{
+  color:#87CEEB;
+}
+
+.background-slate-blue{
+  background-color:#6A5ACD;
+}
+.text-slate-blue{
+  color:#6A5ACD;
+}
+
+.background-slate-gray{
+  background-color:#708090;
+}
+.text-slate-gray{
+  color:#708090;
+}
+
+.background-slate-grey{
+  background-color:#708090;
+}
+.text-slate-grey{
+  color:#708090;
+}
+
+.background-snow{
+  background-color:#FFFAFA;
+}
+.text-snow{
+  color:#FFFAFA;
+}
+
+.background-spring-green{
+  background-color:#00FF7F;
+}
+.text-spring-green{
+  color:#00FF7F;
+}
+
+.background-steel-blue{
+  background-color:#4682B4;
+}
+.text-steel-blue{
+  color:#4682B4;
+}
+
+.background-tan{
+  background-color:#D2B48C;
+}
+.text-tan{
+  color:#D2B48C;
+}
+
+.background-teal{
+  background-color:#008080;
+}
+.text-teal{
+  color:#008080;
+}
+
+.background-thistle{
+  background-color:#D8BFD8;
+}
+.text-thistle{
+  color:#D8BFD8;
+}
+
+.background-tomato{
+  background-color:#FF6347;
+}
+.text-tomato{
+  color:#FF6347;
+}
+
+.background-turquoise{
+  background-color:#40E0D0;
+}
+.text-turquoise{
+  color:#40E0D0;
+}
+
+.background-violet{
+  background-color:#EE82EE;
+}
+.text-violet{
+  color:#EE82EE;
+}
+
+.background-wheat{
+  background-color:#F5DEB3;
+}
+.text-wheat{
+  color:#F5DEB3;
+}
+
+.background-white{
+  background-color:#FFFFFF;
+}
+.text-white{
+  color:#FFFFFF;
+}
+
+.background-white-smoke{
+  background-color:#F5F5F5;
+}
+.text-white-smoke{
+  color:#F5F5F5;
+}
+
+.background-yellow{
+  background-color:#FFFF00;
+}
+.text-yellow{
+  color:#FFFF00;
+}
+
+.background-yellow-green{
+  background-color:#9ACD32;
+}
+.text-yellow-green{
+  color:#9ACD32;
+}
